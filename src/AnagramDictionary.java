@@ -1,7 +1,4 @@
-// Name: EZENNA Chidubem
-// USC NetID: ezenna
-// CS 455 PA4
-// Spring 2025
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
